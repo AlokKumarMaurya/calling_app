@@ -1,0 +1,267 @@
+{
+  "project_info": {
+    "project_number": "822567561679",
+    "firebase_url": "https://contactcentral-61fa8-default-rtdb.firebaseio.com",
+    "project_id": "contactcentral-61fa8",
+    "storage_bucket": "contactcentral-61fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822567561679:android:641b5078433b0c8cee0aba",
+        "android_client_info": {
+          "package_name": "com.example.testing_work121"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkPxKf_pJXNEf3-TUaj1wfh2ze3tsUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822567561679-bhbgqvi5ughhag4npm9r6dudb0jrpjm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.work121directory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822567561679:android:84d4400317209ad6ee0aba",
+        "android_client_info": {
+          "package_name": "com.example.work121"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkPxKf_pJXNEf3-TUaj1wfh2ze3tsUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822567561679-bhbgqvi5ughhag4npm9r6dudb0jrpjm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.work121directory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822567561679:android:c65a1a19a4262e56ee0aba",
+        "android_client_info": {
+          "package_name": "com.flutterflow.WORK121ProjectMonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822567561679-6nacce22m21jvsv7vhlp4o7gbjvm5pov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.WORK121ProjectMonitoring",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkPxKf_pJXNEf3-TUaj1wfh2ze3tsUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822567561679-bhbgqvi5ughhag4npm9r6dudb0jrpjm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.work121directory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822567561679:android:d9d5df043bea9aa6ee0aba",
+        "android_client_info": {
+          "package_name": "com.flutterflow.work121directory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822567561679-6ivq69gtld5ograv5q55usqcv853bk37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.work121directory",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkPxKf_pJXNEf3-TUaj1wfh2ze3tsUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822567561679-bhbgqvi5ughhag4npm9r6dudb0jrpjm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.work121directory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822567561679:android:7335e856b370f257ee0aba",
+        "android_client_info": {
+          "package_name": "com.work121.police121"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822567561679-aaagmkmoh5fk6n26nv5cie81fv8m90bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work121.police121",
+            "certificate_hash": "d681fa534597630a95c65f547424f8a1f2ff80d7"
+          }
+        },
+        {
+          "client_id": "822567561679-m2bc57lldmt1drpvlu19r64h40352n57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work121.police121",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkPxKf_pJXNEf3-TUaj1wfh2ze3tsUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822567561679-bhbgqvi5ughhag4npm9r6dudb0jrpjm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.work121directory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822567561679:android:7218c4c124d801bdee0aba",
+        "android_client_info": {
+          "package_name": "com.work121.police121_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822567561679-9rpljjjlflpkql39i3jk6o8epb7phl80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work121.police121_work",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkPxKf_pJXNEf3-TUaj1wfh2ze3tsUH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822567561679-dnunfmqn4r18ievdk6752bp6opnjkvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822567561679-bhbgqvi5ughhag4npm9r6dudb0jrpjm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.work121directory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
